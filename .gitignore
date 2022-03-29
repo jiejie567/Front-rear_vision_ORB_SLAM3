@@ -61,7 +61,6 @@ Thirdparty/Sophus/build
 build/
 
 lib/
-lib/
 cmake_modules/
 cmake-build-debug/
 
